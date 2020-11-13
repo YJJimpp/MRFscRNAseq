@@ -1,5 +1,5 @@
 
-# This is actually the second version of the p1_mrf_functions.R file
+# This is actually the second version of functions.R file
 # The modifications that I made compared with the last version 
 # (1) If almost all the states in the first round of mean field calculation are 0, 
 #     then the function return with a warning message. 
